@@ -1,8 +1,8 @@
 # 2020-10-08-bootstrap
 
-https://marikohemmingsen.wordpress.com/2020/10/14/front-end-coding-html-css-bootstrap/
-
 Responsive design coding レスポンシブデザインのコーディング (Bootstrap4)
+https://marikohemmingsen.wordpress.com/2020/10/14/front-end-coding-html-css-bootstrap/ 
+
 
 材料はこちら(https://note.com/kurinosuke32/n/n9760cfc5f69f)。
 元のデザインはレスポンシブではなかったので、bootstrap4を使ってレスポンシブにしてみました。改良の余地は多々あるものの、とりあえずの一作目。
